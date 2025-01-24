@@ -1,4 +1,4 @@
-package com.dieg0407;
+package com.dieg0407.arraysandhashing;
 
 import org.junit.jupiter.api.Test;
 
